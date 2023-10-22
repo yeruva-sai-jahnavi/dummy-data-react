@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummy-data-react/static/css/main.b68aa8db.css",
+    "main.js": "/dummy-data-react/static/js/main.9e962635.js",
+    "index.html": "/dummy-data-react/index.html",
+    "main.b68aa8db.css.map": "/dummy-data-react/static/css/main.b68aa8db.css.map",
+    "main.9e962635.js.map": "/dummy-data-react/static/js/main.9e962635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b68aa8db.css",
+    "static/js/main.9e962635.js"
+  ]
+}
